@@ -23,5 +23,5 @@
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/BatuevPetr)
-- [Kaggle]
+
 
